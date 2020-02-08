@@ -9,5 +9,5 @@ Example of usage:
 python pdf_merger sample1.pdf sample2.pdf -o merged.pdf
 ```
 ```bash
-python -d ./samples -o merged.pdf
+python pdf_merger -d ./samples -o merged.pdf
 ```
